@@ -5,7 +5,7 @@
 }
 body {
     /* background: linear-gradient(135deg, #4facfe, #00f2fe); */
-    background-image: url('img/fundo.jfif');
+    background-image: url('fundo.jfif');
     background-repeat: no-repeat;
     background-size: cover;
     color: #ececec;
@@ -63,3 +63,4 @@ p {
     color: #fff;
     transform: scale(1.05);
 }
+
